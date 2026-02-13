@@ -1,7 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "1.0.2",
+  "version_code": 6,
+  "version_name": "1.0.5",
   "apk_url": "https://github.com/rayyeieiei/pu-photo-update/releases/download/basic/PU-PHOTO.apk",
-  "changelog": "+ Penambahan Fitur Pilih Logo\n• Optimasi performa",
+  "changelog": "[~] Fixed Camera WaterMark\n[~] Fixed Video WaterMark\n[~] Optimize Code",
   "force_update": true
 }
+
